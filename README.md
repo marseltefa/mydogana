@@ -1,6 +1,6 @@
 [![MyDogana Banner](./asete/baneri_mydogana.jpg)](https://github.com/marseltefa/mydogana/releases)
 
-[![GitHub all releases](https://img.shields.io/github/downloads/marseltefa/mydogana/total)](https://github.com/marseltefa/mydogana/releases)
+<img alt="GitHub all releases" src="https://img.shields.io/github/downloads/marseltefa/mydogana/total">
 
 # <b>MyDogana</b> #
 

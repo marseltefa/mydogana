@@ -24,6 +24,4 @@ Versioni Klasik i verdhë është portabël ka vetëm një exe dhe s'ka nevoj p�
 </p>
   
 
-````diff
-- KUJDES: Ky program nuk llogarit doganën për blerjet me posta të tjera private që kanë tarifa të ndryshme zhdoganimi
-- apo aktivitete biznesi që kanë tarifa të ndryshme doganore për produkte të ndryshme!
+- ⛔ KUJDES: Ky program nuk llogarit doganën për blerjet me posta të tjera private që kanë tarifa të ndryshme zhdoganimi nga Posta Shqiptare apo aktivitete biznesi që kanë tarifa të ndryshme doganore për produkte të ndryshme!

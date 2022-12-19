@@ -9,12 +9,12 @@ për blerjet online mbi 22$ nga Posta Shqiptare duke përfshirë edhe tarifën e
 
 Programi vjen në dy versione identike nga ana e funksionit ndyshon vetëm ndërfaqja.
 
-Versioni Klasik i verdhë është portabël ka vetëm një exe dhe s'ka nevoj për instalim.
+Versioni (c) Classic i verdhë është portabël ka vetëm një exe dhe s'ka nevoj për instalim.
 <p align="center">
-  <a href="https://github.com/marseltefa/mydogana/releases"><img src="./asete/screenshot_01.jpg">
+  <a href="https://github.com/marseltefa/mydogana/releases"><img src="./asete/mydogana_classic.jpg">
 </p>
   
-  Dhe Versioni Modern që bëhet automatikisht Light ose Dark në bazë të zgjedhjes që keni bërë në Windows por vjen me Setup për tu instaluar.
+  Dhe Versioni (m) Modern që bëhet automatikisht Light ose Dark në bazë të zgjedhjes që keni bërë në Windows por vjen me Setup për tu instaluar.
   <p align="center">
   <a href="https://github.com/marseltefa/mydogana/releases"><img src="./asete/mydogana_dark.jpg">
 </p>

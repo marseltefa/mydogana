@@ -1,8 +1,8 @@
 [![MyDogana Banner](./asete/baneri_mydogana.jpg)](https://github.com/marseltefa/mydogana/releases)
 
-[![GitHub all releases](https://img.shields.io/github/downloads/marseltefa/mydogana/total)](https://github.com/marseltefa/mydogana/releases)
 
 # <b>MyDogana</b> #
+![GitHub all releases](https://img.shields.io/github/downloads/marseltefa/mydogana/total?color=%23FFFF00&label=shkarkime&logo=github)
 
 Është një program i thjeshtë që krijova pasi përtoja të bëja disa llogaritje të njëpasnjëshme manualisht për të gjetur vlerën e doganës 
 për blerjet online mbi 22$ nga Posta Shqiptare duke përfshirë edhe tarifën e zhdoganimit. N.q.s ju nevojitet mund ta shkarkoni [Këtu](https://github.com/marseltefa/mydogana/releases)
